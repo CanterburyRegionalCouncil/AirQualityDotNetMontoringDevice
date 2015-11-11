@@ -1,4 +1,4 @@
-# Air Quality Montoring Device
+# Air Quality Monitoring Device
 
 There are a series of micro controller devices you can use to drive this air quality monitoring device.
 
