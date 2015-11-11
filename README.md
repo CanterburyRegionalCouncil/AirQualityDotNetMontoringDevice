@@ -6,4 +6,4 @@ one being ...
 
 Air Quality .net Montoring Device based off Netduino
 
-more details [here](http://canterburyregionalcouncil.github.io/AirQualityDotNetMontoringDevice/)
+more details [here](http://canterburyregionalcouncil.github.io/AirQualityMonitoringDevice/)
